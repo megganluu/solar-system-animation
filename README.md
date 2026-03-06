@@ -13,7 +13,8 @@
 - 5: Planet 4's Moon - Diamond Moon orbiting P4
   
 ## Computer Graphics Topics
-- Transition matrices
+- UV mapping
+- Rigging
 - Shading
 - Camera angle
 - User Interaction
