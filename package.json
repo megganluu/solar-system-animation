@@ -1,0 +1,17 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "Three.js solar system animation",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.152.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
